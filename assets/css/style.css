@@ -1,0 +1,57 @@
+html,body{
+margin: 0px;    
+}
+.footer{
+
+  	position: fixed;
+	bottom:-10px;
+	width: 100%;
+	background-color: #fcfcfc;
+}
+.addNewButton{
+	padding-right: 10px;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	text-transform: uppercase;
+	border-top: 1px #6c6c6c solid;
+}
+.save-container{
+	padding-left: 10px;
+	padding-top: 5px;
+	padding-bottom: 15px;
+	border-top: 1px #6c6c6c solid;
+}
+.header{
+	border-bottom: 1px #6c6c6c solid;
+	padding:10px;
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 20px;
+}
+.submit{
+		text-transform: uppercase;
+}
+.container{
+	padding-top: 10px;
+	margin-bottom: 100px;
+}
+.added-row{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border: 1px solid #ccc;
+	margin-bottom: 5px; 
+	padding-right: 10px;
+}
+.subquetionContainer{
+	padding-left: 30px;
+}
+.subQuestionText{
+	padding-left: 20px;
+}
+.validation-valid-label {
+    margin-top: 8px;
+    margin-bottom: 8px;
+    display: block;
+    color: #F44336;
+    position: relative;
+}
